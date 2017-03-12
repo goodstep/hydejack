@@ -11,7 +11,7 @@ url:                 http://goodstep.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /Blog
+baseurl:             /_posts
 
 title:               Goodstep
 
