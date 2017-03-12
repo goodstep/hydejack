@@ -11,7 +11,7 @@ url:                 http://qwtel.com
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /hydejack
+baseurl:             /goodstep.github.io
 
 title:               Goodstep
 
@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-   hydejacked 의 템플릿 적용
+test  적용 
   
 # The tags listed as entries in the sidebar
 sidebar_tags:        [jekyll]
