@@ -13,7 +13,7 @@ url:                 http://goodstep.github.io
 # i.e. `http://<username>.github.io`
 baseurl:             /goodstep.github.io
 
-title:               Goodstep
+title:               "Goodstep"
 
 # Pagination
 paginate:            5
