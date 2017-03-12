@@ -21,7 +21,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
- Hello.
+ 
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [jekyll, hyde]
@@ -45,7 +45,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-  hi, 피곤한 github
+
   
     I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.gi
   # Social media icons in sidebar
