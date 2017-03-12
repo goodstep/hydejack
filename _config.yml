@@ -21,10 +21,10 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-test  적용 
-  
+test  적용
+
 # The tags listed as entries in the sidebar
-sidebar_tags:        [jekyll]
+sidebar_tags:        IT
 
 # Fallback image and color if not overwritten for tag or post
 image:               /hydejack/public/img/nap.jpg
@@ -36,16 +36,16 @@ font_accent:         '"Roboto Slab", "PT Serif", Georgia, serif'
 load_google_fonts:   'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
 
 # About yourself
-author:
-  name:              'IT '
+author: IT
+  name: Dan jung
 
   # This photo will be used in the about section
-  photo:             http://qwtel.com/public/img/flo.jpg
-  photo2x:           http://qwtel.com/public/img/flo@2x.jpg
+  photo:
+  photo2x:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    south korea 
+    south korea
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
