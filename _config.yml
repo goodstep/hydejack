@@ -12,18 +12,9 @@ url:                 http://goodstep.github.io
 
 # Set to '' in case of hosting on GitHub pages,
 # i.e. `http://<username>.github.io`
-baseurl:             /goodstep.github.io
+baseurl:             /Blog
 
 title:               Goodstep
-=======
-url:                 'https://goodstep.github.io'
-
-# Set to '' in case of hosting on GitHub pages,
-# i.e. `http://<username>.github.io`
-baseurl:             /index.html
-
-title:               "Goodstep"
->>>>>>> origin/master
 
 # Pagination
 paginate:            5
@@ -31,8 +22,7 @@ paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:         >
-<<<<<<< HEAD
-test  적용
+Danjung
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        IT
