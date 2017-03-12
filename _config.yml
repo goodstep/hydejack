@@ -20,17 +20,10 @@ paginate:            5
 paginate_path:       '/page-:num/'
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
-description:         >
-Danjung
-
-# The tags listed as entries in the sidebar
-sidebar_tags:        IT
-=======
- 
+description:         > Danjung
 
 # The tags listed as entries in the sidebar
 sidebar_tags:        [python, django]
->>>>>>> origin/master
 
 # Fallback image and color if not overwritten for tag or post
 image:               /hydejack/public/img/nap.jpg
@@ -42,13 +35,8 @@ font_accent:         '"Roboto Slab", "PT Serif", Georgia, serif'
 load_google_fonts:   'Roboto+Slab:700|PT+Serif:400,400italic,700,700italic'
 
 # About yourself
-<<<<<<< HEAD
 author: IT
   name: Dan jung
-=======
-author:
-  name:              Dan jung
->>>>>>> origin/master
 
   # This photo will be used in the about section
   photo:
@@ -56,13 +44,7 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-<<<<<<< HEAD
-    south korea
-=======
 
-  
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.gi
->>>>>>> origin/master
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
   # Icons appear in order, can be rearranged:
